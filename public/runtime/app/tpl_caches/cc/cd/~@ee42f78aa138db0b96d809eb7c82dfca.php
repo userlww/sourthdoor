@@ -1,5 +1,5 @@
 <?php
-//000000000600s:45306:"<?php exit;?>a:3:{s:8:"template";a:4:{i:0;s:57:"G:/phpstudy/PHPTutorial/WWW/app/Tpl/main/fanwe/index.html";i:1;s:62:"G:/phpstudy/PHPTutorial/WWW/app/Tpl/main/fanwe/inc/header.html";i:2;s:65:"G:/phpstudy/PHPTutorial/WWW/app/Tpl/main/fanwe/inc/cate_tree.html";i:3;s:62:"G:/phpstudy/PHPTutorial/WWW/app/Tpl/main/fanwe/inc/footer.html";}s:7:"expires";i:1526477921;s:8:"maketime";i:1526477321;}<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+//000000000600s:45306:"<?php exit;?>a:3:{s:8:"template";a:4:{i:0;s:57:"G:/phpstudy/PHPTutorial/WWW/app/Tpl/main/fanwe/index.html";i:1;s:62:"G:/phpstudy/PHPTutorial/WWW/app/Tpl/main/fanwe/inc/header.html";i:2;s:65:"G:/phpstudy/PHPTutorial/WWW/app/Tpl/main/fanwe/inc/cate_tree.html";i:3;s:62:"G:/phpstudy/PHPTutorial/WWW/app/Tpl/main/fanwe/inc/footer.html";}s:7:"expires";i:1526482039;s:8:"maketime";i:1526481439;}<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta name="Generator" />
