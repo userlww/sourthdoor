@@ -358,9 +358,9 @@ INSERT INTO `%DB_PREFIX%conf` VALUES ('25','SCORE_UNIT','积分','3','0','','1',
 INSERT INTO `%DB_PREFIX%conf` VALUES ('26','USER_VERIFY','1','4','1','0,1','1','0','63');
 INSERT INTO `%DB_PREFIX%conf` VALUES ('27','SHOP_LOGO','./public/attachment/201011/4cdd501dc023b.png','3','2','','1','1','19');
 INSERT INTO `%DB_PREFIX%conf` VALUES ('28','SHOP_LANG','zh-cn','3','1','zh-cn','1','0','18');
-INSERT INTO `%DB_PREFIX%conf` VALUES ('29','SHOP_TITLE','方维o2o商业系统','3','0','','1','1','13');
-INSERT INTO `%DB_PREFIX%conf` VALUES ('30','SHOP_KEYWORD','方维o2o商业系统关键词','3','0','','1','1','15');
-INSERT INTO `%DB_PREFIX%conf` VALUES ('31','SHOP_DESCRIPTION','方维o2o商业系统描述','3','0','','1','1','15');
+INSERT INTO `%DB_PREFIX%conf` VALUES ('29','SHOP_TITLE','小南门订餐网','3','0','','1','1','13');
+INSERT INTO `%DB_PREFIX%conf` VALUES ('30','SHOP_KEYWORD','小南门订餐网关键词','3','0','','1','1','15');
+INSERT INTO `%DB_PREFIX%conf` VALUES ('31','SHOP_DESCRIPTION','小南门订餐网描述','3','0','','1','1','15');
 INSERT INTO `%DB_PREFIX%conf` VALUES ('32','SHOP_TEL','400-800-8888','3','0','','1','1','23');
 INSERT INTO `%DB_PREFIX%conf` VALUES ('33','SIDE_DEAL_COUNT','3','3','0','','1','1','29');
 INSERT INTO `%DB_PREFIX%conf` VALUES ('34','SIDE_MESSAGE_COUNT','3','3','0','','1','0','30');
@@ -372,7 +372,7 @@ INSERT INTO `%DB_PREFIX%conf` VALUES ('40','DEAL_PAGE_SIZE','24','3','0','','1',
 INSERT INTO `%DB_PREFIX%conf` VALUES ('41','PAGE_SIZE','24','3','0','','1','1','32');
 INSERT INTO `%DB_PREFIX%conf` VALUES ('42','HELP_CATE_LIMIT','4','3','0','','1','1','34');
 INSERT INTO `%DB_PREFIX%conf` VALUES ('43','HELP_ITEM_LIMIT','4','3','0','','1','1','35');
-INSERT INTO `%DB_PREFIX%conf` VALUES ('44','SHOP_FOOTER','<div style=\"text-align:center;\">[方维o2o商业系统] <a target=\"_blank\" href=\"http://www.fanwe.com\">http://www.fanwe.com</a><br />\r\n</div>\r\n','3','3','','1','1','37');
+INSERT INTO `%DB_PREFIX%conf` VALUES ('44','SHOP_FOOTER','<div style=\"text-align:center;\">[小南门订餐网] <a target=\"_blank\" href=\"http://www.fanwe.com\">http://www.fanwe.com</a><br />\r\n</div>\r\n','3','3','','1','1','37');
 INSERT INTO `%DB_PREFIX%conf` VALUES ('45','USER_MESSAGE_AUTO_EFFECT','1','4','1','0,1','1','0','64');
 INSERT INTO `%DB_PREFIX%conf` VALUES ('48','MAIL_SEND_COUPON','0','5','1','0,1','1','1','73');
 INSERT INTO `%DB_PREFIX%conf` VALUES ('49','SMS_SEND_COUPON','0','5','1','0,1','1','1','79');
@@ -386,7 +386,7 @@ INSERT INTO `%DB_PREFIX%conf` VALUES ('57','SMS_ON','1','5','1','0,1','1','1','7
 INSERT INTO `%DB_PREFIX%conf` VALUES ('58','REFERRAL_LIMIT','1','4','0','','1','1','69');
 INSERT INTO `%DB_PREFIX%conf` VALUES ('59','SMS_COUPON_LIMIT','3','5','0','','1','1','80');
 INSERT INTO `%DB_PREFIX%conf` VALUES ('60','MAIL_COUPON_LIMIT','3','5','0','','1','1','74');
-INSERT INTO `%DB_PREFIX%conf` VALUES ('61','COUPON_NAME','方维券','3','0','','1','1','16');
+INSERT INTO `%DB_PREFIX%conf` VALUES ('61','COUPON_NAME','券','3','0','','1','1','16');
 INSERT INTO `%DB_PREFIX%conf` VALUES ('63','BATCH_PAGE_SIZE','500','3','0','','1','0','33');
 INSERT INTO `%DB_PREFIX%conf` VALUES ('64','COUPON_PRINT_TPL','<div style=\"border:1px solid #000000;padding:10px;margin:0px auto;width:600px;font-size:14px;\"><table class=\"dataEdit\" cellpadding=\"0\" cellspacing=\"0\">	<tbody><tr>    <td width=\"400\">    	<img src=\"./public/attachment/201011/4cdd505195d40.gif\" alt=\"\" border=\"0\" />     </td>\r\n  <td style=\"font-weight:bolder;font-size:22px;font-family:verdana;\" width=\"43%\">    序列号：{$bond.sn}<br />\r\n    密码：{$bond.password}    </td>\r\n</tr>\r\n<tr><td colspan=\"2\" height=\"1\">  <div style=\"width:100%;border-bottom:1px solid #000000;\">&nbsp;</div>\r\n  </td>\r\n</tr>\r\n<tr><td colspan=\"2\" height=\"8\"><br />\r\n</td>\r\n</tr>\r\n<tr><td style=\"font-weight:bolder;font-size:28px;height:50px;padding:5px;font-family:微软雅黑;\" colspan=\"2\">{$bond.name}</td>\r\n</tr>\r\n<tr><td style=\"line-height:22px;padding-right:20px;\" width=\"400\">{$bond.user_name}<br />\r\n  生效时间:{$bond.begin_time_format}<br />\r\n  过期时间:{$bond.end_time_format}<br />\r\n  商家电话：<br />\r\n  {$bond.tel}<br />\r\n  商家地址:<br />\r\n  {$bond.address}<br />\r\n  交通路线:<br />\r\n  {$bond.route}<br />\r\n  营业时间：<br />\r\n  {$bond.open_time}<br />\r\n  </td>\r\n  <td><div id=\"map_canvas\" style=\"width:255px;height:255px;\"></div>\r\n  <br />\r\n  </td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n</div>\r\n','3','3','','1','0','40');
 INSERT INTO `%DB_PREFIX%conf` VALUES ('65','PUBLIC_DOMAIN_ROOT','','2','0','','1','0','59');
@@ -403,7 +403,7 @@ INSERT INTO `%DB_PREFIX%conf` VALUES ('76','FOOTER_LOGO','./public/attachment/20
 INSERT INTO `%DB_PREFIX%conf` VALUES ('77','GZIP_ON','0','1','1','0,1','1','1','2');
 INSERT INTO `%DB_PREFIX%conf` VALUES ('78','INTEGRATE_CODE','','0','0','','1','0','0');
 INSERT INTO `%DB_PREFIX%conf` VALUES ('79','INTEGRATE_CFG','','0','0','','1','0','0');
-INSERT INTO `%DB_PREFIX%conf` VALUES ('80','SHOP_SEO_TITLE','方维o2o商业系统,国内最优秀的PHP开源o2o系统','3','0','','1','1','14');
+INSERT INTO `%DB_PREFIX%conf` VALUES ('80','SHOP_SEO_TITLE','小南门订餐网,国内最优秀的PHP开源o2o系统','3','0','','1','1','14');
 INSERT INTO `%DB_PREFIX%conf` VALUES ('81','CACHE_ON','1','1','1','0,1','1','0','7');
 INSERT INTO `%DB_PREFIX%conf` VALUES ('82','EXPIRED_TIME','0','1','0','','1','0','5');
 INSERT INTO `%DB_PREFIX%conf` VALUES ('120','FILTER_WORD','','1','0','','1','1','100');
@@ -441,8 +441,8 @@ INSERT INTO `%DB_PREFIX%conf` VALUES ('123','USER_REGISTER_SCORE','100','6','0',
 INSERT INTO `%DB_PREFIX%conf` VALUES ('124','USER_REGISTER_MONEY','0','6','0','','1','1','7');
 INSERT INTO `%DB_PREFIX%conf` VALUES ('125','DOMAIN_ROOT','','1','0','','1','0','10');
 INSERT INTO `%DB_PREFIX%conf` VALUES ('128','VERIFY_IMAGE','0','1','1','0,1','1','0','10');
-INSERT INTO `%DB_PREFIX%conf` VALUES ('129','TUAN_SHOP_TITLE','方维团购','3','0','','1','0','13');
-INSERT INTO `%DB_PREFIX%conf` VALUES ('130','MALL_SHOP_TITLE','方维商城','3','0','','1','0','13');
+INSERT INTO `%DB_PREFIX%conf` VALUES ('129','TUAN_SHOP_TITLE','小南门订餐网','3','0','','1','0','13');
+INSERT INTO `%DB_PREFIX%conf` VALUES ('130','MALL_SHOP_TITLE','商城','3','0','','1','0','13');
 INSERT INTO `%DB_PREFIX%conf` VALUES ('131','APNS_MSG_LOCK','0','0','0','','0','0','0');
 INSERT INTO `%DB_PREFIX%conf` VALUES ('132','PROMOTE_MSG_PAGE','0','0','0','','0','0','0');
 INSERT INTO `%DB_PREFIX%conf` VALUES ('133','APNS_MSG_PAGE','0','0','0','','0','0','0');
@@ -5099,7 +5099,7 @@ CREATE TABLE `%DB_PREFIX%fetch_topic` (
   `sort` int(11) NOT NULL,
   PRIMARY KEY  (`id`)
 ) ENGINE=MyISAM AUTO_INCREMENT=2 DEFAULT CHARSET=utf8 COMMENT='分享采集接口配置表';
-INSERT INTO `%DB_PREFIX%fetch_topic` VALUES ('1','方维oso内部数据分享接口','站内分享','Fanwe','','N;','1','1');
+INSERT INTO `%DB_PREFIX%fetch_topic` VALUES ('1','oso内部数据分享接口','站内分享','Fanwe','','N;','1','1');
 DROP TABLE IF EXISTS `%DB_PREFIX%filter`;
 CREATE TABLE `%DB_PREFIX%filter` (
   `id` int(11) NOT NULL auto_increment,
@@ -5181,7 +5181,7 @@ CREATE TABLE `%DB_PREFIX%link` (
   `show_index` tinyint(1) NOT NULL COMMENT '是否显示到首页底部 0:否 1:是',
   PRIMARY KEY  (`id`)
 ) ENGINE=MyISAM AUTO_INCREMENT=5 DEFAULT CHARSET=utf8 COMMENT='友情链接表';
-INSERT INTO `%DB_PREFIX%link` VALUES ('3','方维o2o商业系统','6','http://www.fanwe.com','1','1','','方维o2o商业系统','0','1');
+INSERT INTO `%DB_PREFIX%link` VALUES ('3','小南门订餐网','6','http://www.fanwe.com','1','1','','小南门订餐网','0','1');
 DROP TABLE IF EXISTS `%DB_PREFIX%link_group`;
 CREATE TABLE `%DB_PREFIX%link_group` (
   `id` int(11) NOT NULL auto_increment,
@@ -5250,7 +5250,7 @@ INSERT INTO `%DB_PREFIX%m_config` VALUES ('9','only_one_delivery','只有一个�
 INSERT INTO `%DB_PREFIX%m_config` VALUES ('10','kf_phone','客服电话','400-000-0000','0','基础配置','0');
 INSERT INTO `%DB_PREFIX%m_config` VALUES ('11','kf_email','客服邮箱','qq@fanwe.com','0','基础配置','0');
 INSERT INTO `%DB_PREFIX%m_config` VALUES ('16','page_size','分页大小','10','0','基础配置','0');
-INSERT INTO `%DB_PREFIX%m_config` VALUES ('18','program_title','程序标题名称','方维O2O','0','基础配置','0');
+INSERT INTO `%DB_PREFIX%m_config` VALUES ('18','program_title','程序标题名称','O2O','0','基础配置','0');
 INSERT INTO `%DB_PREFIX%m_config` VALUES ('22','sina_app_key','新浪APP_KEY','','0','基础配置','0');
 INSERT INTO `%DB_PREFIX%m_config` VALUES ('23','sina_app_secret','新浪APP_SECRET','','0','基础配置','0');
 INSERT INTO `%DB_PREFIX%m_config` VALUES ('24','sina_bind_url','新浪回调地址','http://sns.whalecloud.com/sina2/callback','0','基础配置','0');

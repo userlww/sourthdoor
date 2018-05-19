@@ -1358,7 +1358,7 @@ return array(
 	'ES_LISENCE_DOMAIN'	=>	'您的域名已被授权 ',
 	'NOT_LISENCE'	=>	"您的域名未授权,  <a href='http://www.easethink.net/license' target='_blank'>为什么要授权？</a>",
 	'NEED_UPDATE'	=>	'已有新版本，需要更新',
-	'ES_OFFICAL'	=>	'方维官方网站',
+	'ES_OFFICAL'	=>	'官方网站',
 	'NEWEST'	=>	'当前版本是最新版本',
 
 

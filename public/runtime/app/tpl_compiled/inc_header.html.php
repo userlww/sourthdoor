@@ -118,13 +118,6 @@ $k = array (
 );
 echo $k['name']($k['t']);
 ?>">
-		<span class="f_l">欢迎来到<?php 
-$k = array (
-  'name' => 'app_conf',
-  'v' => 'SHOP_TITLE',
-);
-echo $k['name']($k['v']);
-?></span>	
 		<span class="f_r">
 			<ul class="head_tip">
 				<li class="user_tip"><a href="<?php
@@ -195,22 +188,22 @@ echo parse_url_tag("u:index|city|".""."");
 echo parse_url_tag("u:index|search|"."".""); 
 ?>" name="search_form" method=post >
 			<select name="search_type" class="ui-select search_type f_l">
-				<option value="1" <?php if ($this->_var['search_type'] == 1): ?>selected="selected"<?php endif; ?>>搜团购</option>
+				<option value="1" <?php if ($this->_var['search_type'] == 1): ?>selected="selected"<?php endif; ?>>搜美食</option>
 				<option value="2" <?php if ($this->_var['search_type'] == 2): ?>selected="selected"<?php endif; ?>>搜优惠</option>
 				<option value="3" <?php if ($this->_var['search_type'] == 3): ?>selected="selected"<?php endif; ?>>搜活动</option>
 				<option value="4" <?php if ($this->_var['search_type'] == 4): ?>selected="selected"<?php endif; ?>>搜商家</option>				
 				<option value="5" <?php if ($this->_var['search_type'] == 5): ?>selected="selected"<?php endif; ?>>搜商品</option>
-				<option value="6" <?php if ($this->_var['search_type'] == 6): ?>selected="selected"<?php endif; ?>>搜分享</option>
+				<option value="6" <?php if ($this->_var['search_type'] == 6): ?>selected="selected"<?php endif; ?>>搜服务</option>
 			</select>
 			<input type="text" name="search_keyword" class="ui-textbox search_keyword f_l" holder="请输入您要搜索的关键词" value="<?php echo $this->_var['kw']; ?>" />
 			<button class="ui-button f_l" rel="search_btn" type="submit">搜索</button>
 			</form>
 		</div>
 		<ul class="search_hot_keyword">
-			<?php $_from = $this->_var['hot_kw']; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array'); }; $this->push_vars('', 'kw_0_81079000_1526476681');if (count($_from)):
-    foreach ($_from AS $this->_var['kw_0_81079000_1526476681']):
+			<?php $_from = $this->_var['hot_kw']; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array'); }; $this->push_vars('', 'kw_0_51251300_1526734931');if (count($_from)):
+    foreach ($_from AS $this->_var['kw_0_51251300_1526734931']):
 ?>
-			<li><a href="<?php echo $this->_var['kw_0_81079000_1526476681']['url']; ?>"><?php echo $this->_var['kw_0_81079000_1526476681']['txt']; ?></a></li>
+			<li><a href="<?php echo $this->_var['kw_0_51251300_1526734931']['url']; ?>"><?php echo $this->_var['kw_0_51251300_1526734931']['txt']; ?></a></li>
 			<?php endforeach; endif; unset($_from); ?><?php $this->pop_vars();; ?>
 		</ul>
 	</div>

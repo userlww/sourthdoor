@@ -1,8 +1,8 @@
 <?php
 // +----------------------------------------------------------------------
-// | Fanwe 方维o2o商业系统
+// | Fanwe 小南门订餐网
 // +----------------------------------------------------------------------
-// | Copyright (c) 2010 http://www.fanwe.com All rights reserved.
+// | 技术交流请发邮件至15162181051@163.com.
 // +----------------------------------------------------------------------
 
 /* 模块的基本信息 */
@@ -12,7 +12,7 @@ if (isset($read_modules) && $read_modules == true)
 	
     $module['class_name']    = 'FW';
     /* 名称 */
-    $module['name']    = "方维短信平台";
+    $module['name']    = "短信平台";
   
     if(ACTION_NAME == "install" || ACTION_NAME == "edit"){  
 	    require_once APP_ROOT_PATH."system/utils/transport.php";
@@ -66,7 +66,7 @@ class FW_sms implements sms
 	public function getSmsInfo()
 	{	
 
-		return "方维短信平台";	
+		return "短信平台";
 		
 	}
 	

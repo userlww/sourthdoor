@@ -1,7 +1,7 @@
 <?php if (!defined('THINK_PATH')) exit();?><!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Transitional//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd'>
 <html>
 <head>
-<title>方维o2o商业系统  -- 安装向导</title>
+<title>小南门订餐网  -- 安装向导</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link rel="stylesheet" type="text/css" href="__TMPL__Public/css/style.css" />
 </head>
@@ -35,7 +35,7 @@
 	  </tr>
 	  <tr>
 	  	<td colspan="2" style="text-align: center;">
-	  		方维o2o商业系统安装程序
+	  		小南门订餐网安装程序
 	  	</td>
 	  </tr>
 	</table>

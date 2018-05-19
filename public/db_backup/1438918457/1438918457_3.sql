@@ -243,7 +243,7 @@ CREATE TABLE `%DB_PREFIX%fetch_topic` (
   `sort` int(11) NOT NULL,
   PRIMARY KEY (`id`)
 ) ENGINE=MyISAM AUTO_INCREMENT=2 DEFAULT CHARSET=utf8 COMMENT='分享采集接口配置表';
-INSERT INTO `%DB_PREFIX%fetch_topic` VALUES ('1','方维oso内部数据分享接口','站内分享','Fanwe','','N;','1','1');
+INSERT INTO `%DB_PREFIX%fetch_topic` VALUES ('1','oso内部数据分享接口','站内分享','Fanwe','','N;','1','1');
 DROP TABLE IF EXISTS `%DB_PREFIX%filter`;
 CREATE TABLE `%DB_PREFIX%filter` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
@@ -352,7 +352,7 @@ CREATE TABLE `%DB_PREFIX%link` (
   `show_index` tinyint(1) NOT NULL COMMENT '是否显示到首页底部 0:否 1:是',
   PRIMARY KEY (`id`)
 ) ENGINE=MyISAM AUTO_INCREMENT=5 DEFAULT CHARSET=utf8 COMMENT='友情链接表';
-INSERT INTO `%DB_PREFIX%link` VALUES ('3','方维o2o商业系统','6','http://www.fanwe.com','1','1','','方维o2o商业系统','0','1');
+INSERT INTO `%DB_PREFIX%link` VALUES ('3','小南门订餐网','6','http://www.fanwe.com','1','1','','小南门订餐网','0','1');
 DROP TABLE IF EXISTS `%DB_PREFIX%link_group`;
 CREATE TABLE `%DB_PREFIX%link_group` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
@@ -871,8 +871,8 @@ CREATE TABLE `%DB_PREFIX%m_adv` (
   PRIMARY KEY (`id`)
 ) ENGINE=MyISAM AUTO_INCREMENT=21 DEFAULT CHARSET=utf8 COMMENT='手机端广告配置表';
 INSERT INTO `%DB_PREFIX%m_adv` VALUES ('10','支付宝广告','./public/attachment/sjmapi/4f5176077b5e6.jpg','0','0','0','a:1:{s:3:\"url\";s:37:\"http://bizpartner.alipay.com/fangwei/\";}','3','1','0','url','0','');
-INSERT INTO `%DB_PREFIX%m_adv` VALUES ('12','方维o2o','./public/attachment/sjmapi/4f2ce3d1827e4.jpg','0','0','0','a:1:{s:3:\"url\";s:20:\"http://www.fanwe.com\";}','5','1','0','url','0','');
-INSERT INTO `%DB_PREFIX%m_adv` VALUES ('20','方维o2o','./public/attachment/sjmapi/4f2ce3d1827e4.jpg','1','0','0','a:1:{s:3:\"url\";s:20:\"http://www.fanwe.com\";}','9','1','0','url','0','');
+INSERT INTO `%DB_PREFIX%m_adv` VALUES ('12','o2o','./public/attachment/sjmapi/4f2ce3d1827e4.jpg','0','0','0','a:1:{s:3:\"url\";s:20:\"http://www.fanwe.com\";}','5','1','0','url','0','');
+INSERT INTO `%DB_PREFIX%m_adv` VALUES ('20','o2o','./public/attachment/sjmapi/4f2ce3d1827e4.jpg','1','0','0','a:1:{s:3:\"url\";s:20:\"http://www.fanwe.com\";}','9','1','0','url','0','');
 INSERT INTO `%DB_PREFIX%m_adv` VALUES ('19','支付宝','./public/attachment/sjmapi/5451eb7862ae7.jpg','1','0','0','a:1:{s:3:\"url\";s:37:\"http://bizpartner.alipay.com/fangwei/\";}','8','1','0','url','0','');
 DROP TABLE IF EXISTS `%DB_PREFIX%m_config`;
 CREATE TABLE `%DB_PREFIX%m_config` (
@@ -982,7 +982,7 @@ CREATE TABLE `%DB_PREFIX%m_notice` (
   `is_effect` tinyint(1) NOT NULL COMMENT '有效',
   PRIMARY KEY (`id`)
 ) ENGINE=MyISAM AUTO_INCREMENT=2 DEFAULT CHARSET=utf8 COMMENT='手机端公告列表';
-INSERT INTO `%DB_PREFIX%m_notice` VALUES ('1','方维o2o_V3.0新版发布','方维o2o_V3.0新版发布','1431285171','1','1');
+INSERT INTO `%DB_PREFIX%m_notice` VALUES ('1','o2o_V3.0新版发布','o2o_V3.0新版发布','1431285171','1','1');
 DROP TABLE IF EXISTS `%DB_PREFIX%m_zt`;
 CREATE TABLE `%DB_PREFIX%m_zt` (
   `id` smallint(6) NOT NULL AUTO_INCREMENT,

@@ -56,7 +56,6 @@ $this->_var['cpagejs'][] = $this->_var['TMPL_REAL']."/js/msg_sender.js";
 {/if}
 <div class="top_nav">
 	<div class="{function name="load_wrap" t=$wrap_type}">
-		<span class="f_l">欢迎来到{function name="app_conf" v="SHOP_TITLE"}</span>	
 		<span class="f_r">
 			<ul class="head_tip">
 				<li class="user_tip"><a href="{url r="biz"}" target="_blank">商户中心</a></li>
@@ -87,12 +86,12 @@ $this->_var['cpagejs'][] = $this->_var['TMPL_REAL']."/js/msg_sender.js";
 		<div class="top_search">
 			<form action="{url r="index" x="search"}" name="search_form" method=post >
 			<select name="search_type" class="ui-select search_type f_l">
-				<option value="1" {if $search_type eq 1}selected="selected"{/if}>搜团购</option>
+				<option value="1" {if $search_type eq 1}selected="selected"{/if}>搜美食</option>
 				<option value="2" {if $search_type eq 2}selected="selected"{/if}>搜优惠</option>
 				<option value="3" {if $search_type eq 3}selected="selected"{/if}>搜活动</option>
 				<option value="4" {if $search_type eq 4}selected="selected"{/if}>搜商家</option>				
 				<option value="5" {if $search_type eq 5}selected="selected"{/if}>搜商品</option>
-				<option value="6" {if $search_type eq 6}selected="selected"{/if}>搜分享</option>
+				<option value="6" {if $search_type eq 6}selected="selected"{/if}>搜服务</option>
 			</select>
 			<input type="text" name="search_keyword" class="ui-textbox search_keyword f_l" holder="请输入您要搜索的关键词" value="{$kw}" />
 			<button class="ui-button f_l" rel="search_btn" type="submit">搜索</button>

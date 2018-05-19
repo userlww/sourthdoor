@@ -1,3 +1,0 @@
-<?php
-//000000000300a:2:{i:0;a:6:{s:2:"id";s:2:"20";s:4:"name";s:9:"方维o2o";s:3:"img";s:69:"http://fangwei.ys.haoid.cn/public/attachment/sjmapi/4f2ce3d1827e4.jpg";s:4:"type";s:1:"0";s:4:"data";a:1:{s:3:"url";s:20:"http://www.fanwe.com";}s:3:"ctl";s:3:"url";}i:1;a:6:{s:2:"id";s:2:"19";s:4:"name";s:9:"支付宝";s:3:"img";s:69:"http://fangwei.ys.haoid.cn/public/attachment/sjmapi/5451eb7862ae7.jpg";s:4:"type";s:1:"0";s:4:"data";a:1:{s:3:"url";s:37:"http://bizpartner.alipay.com/fangwei/";}s:3:"ctl";s:3:"url";}}
-?>
