@@ -957,7 +957,7 @@ INSERT INTO `%DB_PREFIX%delivery_region` VALUES ('318','24','咸阳','3');
 INSERT INTO `%DB_PREFIX%delivery_region` VALUES ('319','24','延安','3');
 INSERT INTO `%DB_PREFIX%delivery_region` VALUES ('320','24','榆林','3');
 INSERT INTO `%DB_PREFIX%delivery_region` VALUES ('321','25','上海','3');
-INSERT INTO `%DB_PREFIX%delivery_region` VALUES ('322','26','成都','3');
+INSERT INTO `%DB_PREFIX%delivery_region` VALUES ('322','26','桃苑','3');
 INSERT INTO `%DB_PREFIX%delivery_region` VALUES ('323','26','绵阳','3');
 INSERT INTO `%DB_PREFIX%delivery_region` VALUES ('324','26','阿坝','3');
 INSERT INTO `%DB_PREFIX%delivery_region` VALUES ('325','26','巴中','3');

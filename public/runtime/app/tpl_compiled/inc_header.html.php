@@ -167,21 +167,6 @@ echo $k['name']($k['v']);
 ?>
 	</a>
 	</div>
-	<div class="city f_l">
-		<?php if (count ( $this->_var['city_list'] ) > 1): ?>
-		<a class="city_name" href="javascript:void(0);"  jump="<?php
-echo parse_url_tag("u:index|city|"."".""); 
-?>"><?php 
-$k = array (
-  'name' => 'load_city_name',
-);
-echo $this->_hash . $k['name'] . '|' . base64_encode(serialize($k)) . $this->_hash;
-?><?php if ($this->_var['city_count'] < 20): ?>&nbsp;<i></i><?php endif; ?></a>
-		<a href="javascript:void(0);"  jump="<?php
-echo parse_url_tag("u:index|city|"."".""); 
-?>" class="city_switch f_l">切换城市</a>
-		<?php endif; ?>
-	</div>
 	<div class="search f_r">
 		<div class="top_search">
 			<form action="<?php
@@ -200,10 +185,10 @@ echo parse_url_tag("u:index|search|".""."");
 			</form>
 		</div>
 		<ul class="search_hot_keyword">
-			<?php $_from = $this->_var['hot_kw']; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array'); }; $this->push_vars('', 'kw_0_51251300_1526734931');if (count($_from)):
-    foreach ($_from AS $this->_var['kw_0_51251300_1526734931']):
+			<?php $_from = $this->_var['hot_kw']; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array'); }; $this->push_vars('', 'kw_0_17999300_1526804485');if (count($_from)):
+    foreach ($_from AS $this->_var['kw_0_17999300_1526804485']):
 ?>
-			<li><a href="<?php echo $this->_var['kw_0_51251300_1526734931']['url']; ?>"><?php echo $this->_var['kw_0_51251300_1526734931']['txt']; ?></a></li>
+			<li><a href="<?php echo $this->_var['kw_0_17999300_1526804485']['url']; ?>"><?php echo $this->_var['kw_0_17999300_1526804485']['txt']; ?></a></li>
 			<?php endforeach; endif; unset($_from); ?><?php $this->pop_vars();; ?>
 		</ul>
 	</div>

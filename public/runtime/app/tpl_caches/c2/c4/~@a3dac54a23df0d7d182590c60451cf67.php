@@ -1,5 +1,5 @@
 <?php
-//000000000600s:54298:"<?php exit;?>a:3:{s:8:"template";a:4:{i:0;s:57:"G:/phpstudy/PHPTutorial/WWW/app/Tpl/main/fanwe/index.html";i:1;s:62:"G:/phpstudy/PHPTutorial/WWW/app/Tpl/main/fanwe/inc/header.html";i:2;s:65:"G:/phpstudy/PHPTutorial/WWW/app/Tpl/main/fanwe/inc/cate_tree.html";i:3;s:62:"G:/phpstudy/PHPTutorial/WWW/app/Tpl/main/fanwe/inc/footer.html";}s:7:"expires";i:1526735530;s:8:"maketime";i:1526734930;}<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+//000000000600s:49008:"<?php exit;?>a:3:{s:8:"template";a:4:{i:0;s:57:"G:/phpstudy/PHPTutorial/WWW/app/Tpl/main/fanwe/index.html";i:1;s:62:"G:/phpstudy/PHPTutorial/WWW/app/Tpl/main/fanwe/inc/header.html";i:2;s:65:"G:/phpstudy/PHPTutorial/WWW/app/Tpl/main/fanwe/inc/cate_tree.html";i:3;s:62:"G:/phpstudy/PHPTutorial/WWW/app/Tpl/main/fanwe/inc/footer.html";}s:7:"expires";i:1526805084;s:8:"maketime";i:1526804484;}<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta name="Generator" />
@@ -59,12 +59,8 @@ var QRCODE_ON = '1';
 <div class="wrap_full_w main_layout head_main">
 	<div class="logo f_l">
 	<a class="link" href="/">
-				<span style='display:inline-block; width:191px; height:60px; background:url(http://localhost/public/attachment/201011/4cdd501dc023b.png) no-repeat; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src=http://localhost/public/attachment/201011/4cdd501dc023b.png, sizingMethod=scale);_background-image:none;'></span>	</a>
+				<span style='display:inline-block; width:175px; height:104px; background:url(http://localhost/public/attachment/201011/4cdd501dc023b.png) no-repeat; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src=http://localhost/public/attachment/201011/4cdd501dc023b.png, sizingMethod=scale);_background-image:none;'></span>	</a>
 	</div>
-	<div class="city f_l">
-				<a class="city_name" href="javascript:void(0);"  jump="/index.php?ctl=city">554fcae493e564ee0dc75bdf2ebf94caload_city_name|YToxOntzOjQ6Im5hbWUiO3M6MTQ6ImxvYWRfY2l0eV9uYW1lIjt9554fcae493e564ee0dc75bdf2ebf94ca&nbsp;<i></i></a>
-		<a href="javascript:void(0);"  jump="/index.php?ctl=city" class="city_switch f_l">切换城市</a>
-			</div>
 	<div class="search f_r">
 		<div class="top_search">
 			<form action="/index.php?ctl=search" name="search_form" method=post >
@@ -93,144 +89,99 @@ var QRCODE_ON = '1';
 			<div class="drop_box">
 				<div class="cate_tree">
 <dl class="">
-	<dt><a href="/index.php?ctl=tuan&cid=8"><i class="diyfont">&#58896;</i>&nbsp;餐饮美食</a></dt>
+	<dt><a href="/index.php?ctl=tuan&cid=8"><i class="diyfont">&#58896;</i>&nbsp;火锅</a></dt>
 		<dd class="sub_nav ">
 		<ul>
-						<li><a href="/index.php?ctl=tuan&cid=8&tid=3"  >东北菜</a></li>
-						<li><a href="/index.php?ctl=tuan&cid=8&tid=4" class="heavy" >川菜</a></li>
-						<li><a href="/index.php?ctl=tuan&cid=8&tid=26"  >日本料理</a></li>
+						<li><a href="/index.php?ctl=tuan&cid=8&tid=1" class="heavy" >宴叔叔</a></li>
+						<li><a href="/index.php?ctl=tuan&cid=8&tid=30" class="heavy" >烧烤</a></li>
+						<li><a href="/index.php?ctl=tuan&cid=8&tid=29"  >面包</a></li>
 					</ul>
 	</dd>
 			<dd class="pop_nav">
-		<span><a href="/index.php?ctl=tuan&cid=8">餐饮美食</a></span>
+		<span><a href="/index.php?ctl=tuan&cid=8">火锅</a></span>
 		<ul>
-						<li><a href="/index.php?ctl=tuan&cid=8&tid=3" >东北菜</a>&nbsp;&nbsp;|</li>
-						<li><a href="/index.php?ctl=tuan&cid=8&tid=4" class="heavy">川菜</a>&nbsp;&nbsp;|</li>
-						<li><a href="/index.php?ctl=tuan&cid=8&tid=26" >日本料理</a>&nbsp;&nbsp;|</li>
-						<li><a href="/index.php?ctl=tuan&cid=8&tid=27" class="heavy">本帮菜</a>&nbsp;&nbsp;|</li>
+						<li><a href="/index.php?ctl=tuan&cid=8&tid=1" class="heavy">宴叔叔</a>&nbsp;&nbsp;|</li>
+						<li><a href="/index.php?ctl=tuan&cid=8&tid=2" class="heavy">地中海</a>&nbsp;&nbsp;|</li>
+						<li><a href="/index.php?ctl=tuan&cid=8&tid=3" >岁岁羊</a>&nbsp;&nbsp;|</li>
+						<li><a href="/index.php?ctl=tuan&cid=8&tid=4" class="heavy">三只羊</a>&nbsp;&nbsp;|</li>
 						<li><a href="/index.php?ctl=tuan&cid=8&tid=28" >甜点</a>&nbsp;&nbsp;|</li>
 						<li><a href="/index.php?ctl=tuan&cid=8&tid=29" >面包</a>&nbsp;&nbsp;|</li>
 						<li><a href="/index.php?ctl=tuan&cid=8&tid=30" class="heavy">烧烤</a>&nbsp;&nbsp;|</li>
-						<li><a href="/index.php?ctl=tuan&cid=8&tid=1" class="heavy">咖啡</a>&nbsp;&nbsp;|</li>
-						<li><a href="/index.php?ctl=tuan&cid=8&tid=2" class="heavy">闽菜</a>&nbsp;&nbsp;|</li>
-						<li><a href="/index.php?ctl=tuan&cid=8&tid=38" >西餐</a>&nbsp;&nbsp;|</li>
 					</ul>
 	</dd>
 	</dl>
 <dl class="">
-	<dt><a href="/index.php?ctl=tuan&cid=9"><i class="diyfont">&#58894;</i>&nbsp;休闲娱乐</a></dt>
+	<dt><a href="/index.php?ctl=tuan&cid=9"><i class="diyfont">&#58894;</i>&nbsp;烧烤</a></dt>
 		<dd class="sub_nav ">
 		<ul>
-						<li><a href="/index.php?ctl=tuan&cid=9&tid=6" class="heavy" >自助游</a></li>
-						<li><a href="/index.php?ctl=tuan&cid=9&tid=1" class="heavy" >咖啡</a></li>
-						<li><a href="/index.php?ctl=tuan&cid=9&tid=5"  >KTV</a></li>
+						<li><a href="/index.php?ctl=tuan&cid=9&tid=1" class="heavy" >宴叔叔</a></li>
+						<li><a href="/index.php?ctl=tuan&cid=9&tid=5"  >大西北</a></li>
+						<li><a href="/index.php?ctl=tuan&cid=9&tid=6" class="heavy" >聚贤阁</a></li>
 					</ul>
 	</dd>
 			<dd class="pop_nav">
-		<span><a href="/index.php?ctl=tuan&cid=9">休闲娱乐</a></span>
+		<span><a href="/index.php?ctl=tuan&cid=9">烧烤</a></span>
 		<ul>
-						<li><a href="/index.php?ctl=tuan&cid=9&tid=6" class="heavy">自助游</a>&nbsp;&nbsp;|</li>
-						<li><a href="/index.php?ctl=tuan&cid=9&tid=1" class="heavy">咖啡</a>&nbsp;&nbsp;|</li>
-						<li><a href="/index.php?ctl=tuan&cid=9&tid=5" >KTV</a>&nbsp;&nbsp;|</li>
-						<li><a href="/index.php?ctl=tuan&cid=9&tid=31" >足疗按摩</a>&nbsp;&nbsp;|</li>
-						<li><a href="/index.php?ctl=tuan&cid=9&tid=32" >水上世界</a>&nbsp;&nbsp;|</li>
-						<li><a href="/index.php?ctl=tuan&cid=9&tid=33" >运动健身</a>&nbsp;&nbsp;|</li>
-						<li><a href="/index.php?ctl=tuan&cid=9&tid=34" >采摘/农家乐</a>&nbsp;&nbsp;|</li>
+						<li><a href="/index.php?ctl=tuan&cid=9&tid=1" class="heavy">宴叔叔</a>&nbsp;&nbsp;|</li>
+						<li><a href="/index.php?ctl=tuan&cid=9&tid=5" >大西北</a>&nbsp;&nbsp;|</li>
+						<li><a href="/index.php?ctl=tuan&cid=9&tid=6" class="heavy">聚贤阁</a>&nbsp;&nbsp;|</li>
 					</ul>
 	</dd>
 	</dl>
 <dl class="">
-	<dt><a href="/index.php?ctl=tuan&cid=10"><i class="diyfont">&#58880;</i>&nbsp;生活服务</a></dt>
+	<dt><a href="/index.php?ctl=tuan&cid=10"><i class="diyfont">&#58880;</i>&nbsp;特色小吃</a></dt>
 		<dd class="sub_nav ">
 		<ul>
-						<li><a href="/index.php?ctl=tuan&cid=10&tid=35"  >婚纱摄影</a></li>
-						<li><a href="/index.php?ctl=tuan&cid=10&tid=36"  >个性写真</a></li>
-						<li><a href="/index.php?ctl=tuan&cid=10&tid=37"  >培训课程</a></li>
+						<li><a href="/index.php?ctl=tuan&cid=10&tid=36"  >沙县小吃</a></li>
+						<li><a href="/index.php?ctl=tuan&cid=10&tid=37"  >馋小喵</a></li>
+						<li><a href="/index.php?ctl=tuan&cid=10&tid=39"  >兰州拉面</a></li>
 					</ul>
 	</dd>
 			<dd class="pop_nav">
-		<span><a href="/index.php?ctl=tuan&cid=10">生活服务</a></span>
+		<span><a href="/index.php?ctl=tuan&cid=10">特色小吃</a></span>
 		<ul>
-						<li><a href="/index.php?ctl=tuan&cid=10&tid=35" >婚纱摄影</a>&nbsp;&nbsp;|</li>
-						<li><a href="/index.php?ctl=tuan&cid=10&tid=36" >个性写真</a>&nbsp;&nbsp;|</li>
-						<li><a href="/index.php?ctl=tuan&cid=10&tid=37" >培训课程</a>&nbsp;&nbsp;|</li>
-						<li><a href="/index.php?ctl=tuan&cid=10&tid=39" >配镜</a>&nbsp;&nbsp;|</li>
+						<li><a href="/index.php?ctl=tuan&cid=10&tid=36" >沙县小吃</a>&nbsp;&nbsp;|</li>
+						<li><a href="/index.php?ctl=tuan&cid=10&tid=37" >馋小喵</a>&nbsp;&nbsp;|</li>
+						<li><a href="/index.php?ctl=tuan&cid=10&tid=39" >兰州拉面</a>&nbsp;&nbsp;|</li>
 					</ul>
 	</dd>
 	</dl>
 <dl class="">
-	<dt><a href="/index.php?ctl=tuan&cid=11"><i class="diyfont">&#58889;</i>&nbsp;酒店旅游</a></dt>
+	<dt><a href="/index.php?ctl=tuan&cid=11"><i class="diyfont">&#58889;</i>&nbsp;川渝风味</a></dt>
 		<dd class="sub_nav ">
 		<ul>
-						<li><a href="/index.php?ctl=tuan&cid=11&tid=8" class="heavy" >国内游</a></li>
-						<li><a href="/index.php?ctl=tuan&cid=11&tid=9"  >海外游</a></li>
-						<li><a href="/index.php?ctl=tuan&cid=11&tid=6" class="heavy" >自助游</a></li>
+						<li><a href="/index.php?ctl=tuan&cid=11&tid=6" class="heavy" >聚贤阁</a></li>
+						<li><a href="/index.php?ctl=tuan&cid=11&tid=7"  >四川菜馆</a></li>
+						<li><a href="/index.php?ctl=tuan&cid=11&tid=8" class="heavy" >川菜湘菜</a></li>
 					</ul>
 	</dd>
 			<dd class="pop_nav">
-		<span><a href="/index.php?ctl=tuan&cid=11">酒店旅游</a></span>
+		<span><a href="/index.php?ctl=tuan&cid=11">川渝风味</a></span>
 		<ul>
-						<li><a href="/index.php?ctl=tuan&cid=11&tid=8" class="heavy">国内游</a>&nbsp;&nbsp;|</li>
-						<li><a href="/index.php?ctl=tuan&cid=11&tid=9" >海外游</a>&nbsp;&nbsp;|</li>
-						<li><a href="/index.php?ctl=tuan&cid=11&tid=6" class="heavy">自助游</a>&nbsp;&nbsp;|</li>
-						<li><a href="/index.php?ctl=tuan&cid=11&tid=7" >周边游</a>&nbsp;&nbsp;|</li>
+						<li><a href="/index.php?ctl=tuan&cid=11&tid=6" class="heavy">聚贤阁</a>&nbsp;&nbsp;|</li>
+						<li><a href="/index.php?ctl=tuan&cid=11&tid=7" >四川菜馆</a>&nbsp;&nbsp;|</li>
+						<li><a href="/index.php?ctl=tuan&cid=11&tid=8" class="heavy">川菜湘菜</a>&nbsp;&nbsp;|</li>
 					</ul>
 	</dd>
 	</dl>
 <dl class="">
-	<dt><a href="/index.php?ctl=tuan&cid=13"><i class="diyfont">&#58883;</i>&nbsp;爱车学车</a></dt>
+	<dt><a href="/index.php?ctl=tuan&cid=16"><i class="diyfont"></i>&nbsp;淮鲁菜系</a></dt>
 		<dd class="sub_nav ">
 		<ul>
-						<li><a href="/index.php?ctl=tuan&cid=13&tid=12"  >驾校</a></li>
-						<li><a href="/index.php?ctl=tuan&cid=13&tid=13" class="heavy" >4S店</a></li>
-						<li><a href="/index.php?ctl=tuan&cid=13&tid=14"  >音响</a></li>
+						<li><a href="/index.php?ctl=tuan&cid=16&tid=18"  >山东菜馆</a></li>
+						<li><a href="/index.php?ctl=tuan&cid=16&tid=19"  >淮扬菜</a></li>
 					</ul>
 	</dd>
 			<dd class="pop_nav">
-		<span><a href="/index.php?ctl=tuan&cid=13">爱车学车</a></span>
+		<span><a href="/index.php?ctl=tuan&cid=16">淮鲁菜系</a></span>
 		<ul>
-						<li><a href="/index.php?ctl=tuan&cid=13&tid=12" >驾校</a>&nbsp;&nbsp;|</li>
-						<li><a href="/index.php?ctl=tuan&cid=13&tid=13" class="heavy">4S店</a>&nbsp;&nbsp;|</li>
-						<li><a href="/index.php?ctl=tuan&cid=13&tid=14" >音响</a>&nbsp;&nbsp;|</li>
-						<li><a href="/index.php?ctl=tuan&cid=13&tid=15" class="heavy">车载导航</a>&nbsp;&nbsp;|</li>
-						<li><a href="/index.php?ctl=tuan&cid=13&tid=16" class="heavy">真皮座椅</a>&nbsp;&nbsp;|</li>
-						<li><a href="/index.php?ctl=tuan&cid=13&tid=17" class="heavy">打蜡</a>&nbsp;&nbsp;|</li>
-						<li><a href="/index.php?ctl=tuan&cid=13&tid=10" class="heavy">洗车</a>&nbsp;&nbsp;|</li>
-						<li><a href="/index.php?ctl=tuan&cid=13&tid=11" class="heavy">汽车保养</a>&nbsp;&nbsp;|</li>
-					</ul>
-	</dd>
-	</dl>
-<dl class="">
-	<dt><a href="/index.php?ctl=tuan&cid=14"><i class="diyfont">&#58888;</i>&nbsp;都市丽人</a></dt>
-		</dl>
-<dl class="">
-	<dt><a href="/index.php?ctl=tuan&cid=15"><i class="diyfont">&#58895;</i>&nbsp;我要结婚</a></dt>
-		</dl>
-<dl class="">
-	<dt><a href="/index.php?ctl=tuan&cid=16"><i class="diyfont"></i>&nbsp;医疗健康</a></dt>
-		<dd class="sub_nav ">
-		<ul>
-						<li><a href="/index.php?ctl=tuan&cid=16&tid=20"  >儿科</a></li>
-						<li><a href="/index.php?ctl=tuan&cid=16&tid=21" class="heavy" >口腔科</a></li>
-						<li><a href="/index.php?ctl=tuan&cid=16&tid=22"  >眼科</a></li>
-					</ul>
-	</dd>
-			<dd class="pop_nav">
-		<span><a href="/index.php?ctl=tuan&cid=16">医疗健康</a></span>
-		<ul>
-						<li><a href="/index.php?ctl=tuan&cid=16&tid=20" >儿科</a>&nbsp;&nbsp;|</li>
-						<li><a href="/index.php?ctl=tuan&cid=16&tid=21" class="heavy">口腔科</a>&nbsp;&nbsp;|</li>
-						<li><a href="/index.php?ctl=tuan&cid=16&tid=22" >眼科</a>&nbsp;&nbsp;|</li>
-						<li><a href="/index.php?ctl=tuan&cid=16&tid=23" class="heavy">体检中心</a>&nbsp;&nbsp;|</li>
-						<li><a href="/index.php?ctl=tuan&cid=16&tid=24" >心理诊所</a>&nbsp;&nbsp;|</li>
-						<li><a href="/index.php?ctl=tuan&cid=16&tid=25" class="heavy">疗养院</a>&nbsp;&nbsp;|</li>
-						<li><a href="/index.php?ctl=tuan&cid=16&tid=18" >男科</a>&nbsp;&nbsp;|</li>
-						<li><a href="/index.php?ctl=tuan&cid=16&tid=19" >妇科</a>&nbsp;&nbsp;|</li>
+						<li><a href="/index.php?ctl=tuan&cid=16&tid=18" >山东菜馆</a>&nbsp;&nbsp;|</li>
+						<li><a href="/index.php?ctl=tuan&cid=16&tid=19" >淮扬菜</a>&nbsp;&nbsp;|</li>
 					</ul>
 	</dd>
 	</dl>
 <dl class="no_border">
-	<dt><a href="/index.php?ctl=tuan&cid=17"><i class="diyfont">&#58887;</i>&nbsp;母婴亲子</a></dt>
+	<dt><a href="/index.php?ctl=tuan&cid=17"><i class="diyfont">&#58887;</i>&nbsp;东北菜</a></dt>
 		</dl>
 </div>			</div>
 		</div><!--下拉菜单-->
@@ -241,12 +192,10 @@ var QRCODE_ON = '1';
 								<li ><a href="/index.php?ctl=mall" >商城</a></li>
 								<li ><a href="/index.php?ctl=events" >活动</a></li>
 								<li ><a href="/index.php?ctl=stores" >商家</a></li>
-								<li ><a href="/index.php?ctl=daren" >达人秀</a></li>
 								<li ><a href="/index.php?ctl=group" >小组</a></li>
 								<li ><a href="/index.php?ctl=discover" >发现</a></li>
 								<li ><a href="/index.php?ctl=youhuis" >优惠券</a></li>
 								<li ><a href="/index.php?ctl=scores" >积分商城</a></li>
-								<li ><a href="/index.php?ctl=position" target="_blank">身边团购</a></li>
 								
 			</ul>
 		</div>
@@ -257,11 +206,11 @@ var QRCODE_ON = '1';
 		<ul>
 																								<li rel="index_mall_cate_24" bg="#438ccb">
 								<i class="diyfont"></i>
-								<font>服装</font>
+								<font>火锅</font>
 			</li>
 												<li rel="index_mall_cate_29" bg="#f16522">
 								<i class="diyfont"></i>
-								<font>母婴用品</font>
+								<font>风味小吃</font>
 			</li>
 																				</ul>
 </div>
@@ -270,115 +219,99 @@ var QRCODE_ON = '1';
 	<div class="fix_cate_tree " >
 			<div class="cate_tree">
 <dl class="">
-	<dt><a href="/index.php?ctl=tuan&cid=8"><i class="diyfont">&#58896;</i>&nbsp;餐饮美食</a></dt>
+	<dt><a href="/index.php?ctl=tuan&cid=8"><i class="diyfont">&#58896;</i>&nbsp;火锅</a></dt>
 		<dd class="sub_nav ">
 		<ul>
-						<li><a href="/index.php?ctl=tuan&cid=8&tid=3"  >东北菜</a></li>
-						<li><a href="/index.php?ctl=tuan&cid=8&tid=4" class="heavy" >川菜</a></li>
-						<li><a href="/index.php?ctl=tuan&cid=8&tid=26"  >日本料理</a></li>
+						<li><a href="/index.php?ctl=tuan&cid=8&tid=1" class="heavy" >宴叔叔</a></li>
+						<li><a href="/index.php?ctl=tuan&cid=8&tid=30" class="heavy" >烧烤</a></li>
+						<li><a href="/index.php?ctl=tuan&cid=8&tid=29"  >面包</a></li>
 					</ul>
 	</dd>
 			<dd class="pop_nav">
-		<span><a href="/index.php?ctl=tuan&cid=8">餐饮美食</a></span>
+		<span><a href="/index.php?ctl=tuan&cid=8">火锅</a></span>
 		<ul>
-						<li><a href="/index.php?ctl=tuan&cid=8&tid=3" >东北菜</a>&nbsp;&nbsp;|</li>
-						<li><a href="/index.php?ctl=tuan&cid=8&tid=4" class="heavy">川菜</a>&nbsp;&nbsp;|</li>
-						<li><a href="/index.php?ctl=tuan&cid=8&tid=26" >日本料理</a>&nbsp;&nbsp;|</li>
-						<li><a href="/index.php?ctl=tuan&cid=8&tid=27" class="heavy">本帮菜</a>&nbsp;&nbsp;|</li>
+						<li><a href="/index.php?ctl=tuan&cid=8&tid=1" class="heavy">宴叔叔</a>&nbsp;&nbsp;|</li>
+						<li><a href="/index.php?ctl=tuan&cid=8&tid=2" class="heavy">地中海</a>&nbsp;&nbsp;|</li>
+						<li><a href="/index.php?ctl=tuan&cid=8&tid=3" >岁岁羊</a>&nbsp;&nbsp;|</li>
+						<li><a href="/index.php?ctl=tuan&cid=8&tid=4" class="heavy">三只羊</a>&nbsp;&nbsp;|</li>
 						<li><a href="/index.php?ctl=tuan&cid=8&tid=28" >甜点</a>&nbsp;&nbsp;|</li>
 						<li><a href="/index.php?ctl=tuan&cid=8&tid=29" >面包</a>&nbsp;&nbsp;|</li>
 						<li><a href="/index.php?ctl=tuan&cid=8&tid=30" class="heavy">烧烤</a>&nbsp;&nbsp;|</li>
-						<li><a href="/index.php?ctl=tuan&cid=8&tid=1" class="heavy">咖啡</a>&nbsp;&nbsp;|</li>
-						<li><a href="/index.php?ctl=tuan&cid=8&tid=2" class="heavy">闽菜</a>&nbsp;&nbsp;|</li>
-						<li><a href="/index.php?ctl=tuan&cid=8&tid=38" >西餐</a>&nbsp;&nbsp;|</li>
 					</ul>
 	</dd>
 	</dl>
 <dl class="">
-	<dt><a href="/index.php?ctl=tuan&cid=9"><i class="diyfont">&#58894;</i>&nbsp;休闲娱乐</a></dt>
+	<dt><a href="/index.php?ctl=tuan&cid=9"><i class="diyfont">&#58894;</i>&nbsp;烧烤</a></dt>
 		<dd class="sub_nav ">
 		<ul>
-						<li><a href="/index.php?ctl=tuan&cid=9&tid=6" class="heavy" >自助游</a></li>
-						<li><a href="/index.php?ctl=tuan&cid=9&tid=1" class="heavy" >咖啡</a></li>
-						<li><a href="/index.php?ctl=tuan&cid=9&tid=5"  >KTV</a></li>
+						<li><a href="/index.php?ctl=tuan&cid=9&tid=1" class="heavy" >宴叔叔</a></li>
+						<li><a href="/index.php?ctl=tuan&cid=9&tid=5"  >大西北</a></li>
+						<li><a href="/index.php?ctl=tuan&cid=9&tid=6" class="heavy" >聚贤阁</a></li>
 					</ul>
 	</dd>
 			<dd class="pop_nav">
-		<span><a href="/index.php?ctl=tuan&cid=9">休闲娱乐</a></span>
+		<span><a href="/index.php?ctl=tuan&cid=9">烧烤</a></span>
 		<ul>
-						<li><a href="/index.php?ctl=tuan&cid=9&tid=6" class="heavy">自助游</a>&nbsp;&nbsp;|</li>
-						<li><a href="/index.php?ctl=tuan&cid=9&tid=1" class="heavy">咖啡</a>&nbsp;&nbsp;|</li>
-						<li><a href="/index.php?ctl=tuan&cid=9&tid=5" >KTV</a>&nbsp;&nbsp;|</li>
-						<li><a href="/index.php?ctl=tuan&cid=9&tid=31" >足疗按摩</a>&nbsp;&nbsp;|</li>
-						<li><a href="/index.php?ctl=tuan&cid=9&tid=32" >水上世界</a>&nbsp;&nbsp;|</li>
-						<li><a href="/index.php?ctl=tuan&cid=9&tid=33" >运动健身</a>&nbsp;&nbsp;|</li>
-						<li><a href="/index.php?ctl=tuan&cid=9&tid=34" >采摘/农家乐</a>&nbsp;&nbsp;|</li>
+						<li><a href="/index.php?ctl=tuan&cid=9&tid=1" class="heavy">宴叔叔</a>&nbsp;&nbsp;|</li>
+						<li><a href="/index.php?ctl=tuan&cid=9&tid=5" >大西北</a>&nbsp;&nbsp;|</li>
+						<li><a href="/index.php?ctl=tuan&cid=9&tid=6" class="heavy">聚贤阁</a>&nbsp;&nbsp;|</li>
 					</ul>
 	</dd>
 	</dl>
 <dl class="">
-	<dt><a href="/index.php?ctl=tuan&cid=10"><i class="diyfont">&#58880;</i>&nbsp;生活服务</a></dt>
+	<dt><a href="/index.php?ctl=tuan&cid=10"><i class="diyfont">&#58880;</i>&nbsp;特色小吃</a></dt>
 		<dd class="sub_nav ">
 		<ul>
-						<li><a href="/index.php?ctl=tuan&cid=10&tid=35"  >婚纱摄影</a></li>
-						<li><a href="/index.php?ctl=tuan&cid=10&tid=36"  >个性写真</a></li>
-						<li><a href="/index.php?ctl=tuan&cid=10&tid=37"  >培训课程</a></li>
+						<li><a href="/index.php?ctl=tuan&cid=10&tid=36"  >沙县小吃</a></li>
+						<li><a href="/index.php?ctl=tuan&cid=10&tid=37"  >馋小喵</a></li>
+						<li><a href="/index.php?ctl=tuan&cid=10&tid=39"  >兰州拉面</a></li>
 					</ul>
 	</dd>
 			<dd class="pop_nav">
-		<span><a href="/index.php?ctl=tuan&cid=10">生活服务</a></span>
+		<span><a href="/index.php?ctl=tuan&cid=10">特色小吃</a></span>
 		<ul>
-						<li><a href="/index.php?ctl=tuan&cid=10&tid=35" >婚纱摄影</a>&nbsp;&nbsp;|</li>
-						<li><a href="/index.php?ctl=tuan&cid=10&tid=36" >个性写真</a>&nbsp;&nbsp;|</li>
-						<li><a href="/index.php?ctl=tuan&cid=10&tid=37" >培训课程</a>&nbsp;&nbsp;|</li>
-						<li><a href="/index.php?ctl=tuan&cid=10&tid=39" >配镜</a>&nbsp;&nbsp;|</li>
+						<li><a href="/index.php?ctl=tuan&cid=10&tid=36" >沙县小吃</a>&nbsp;&nbsp;|</li>
+						<li><a href="/index.php?ctl=tuan&cid=10&tid=37" >馋小喵</a>&nbsp;&nbsp;|</li>
+						<li><a href="/index.php?ctl=tuan&cid=10&tid=39" >兰州拉面</a>&nbsp;&nbsp;|</li>
 					</ul>
 	</dd>
 	</dl>
 <dl class="">
-	<dt><a href="/index.php?ctl=tuan&cid=11"><i class="diyfont">&#58889;</i>&nbsp;酒店旅游</a></dt>
+	<dt><a href="/index.php?ctl=tuan&cid=11"><i class="diyfont">&#58889;</i>&nbsp;川渝风味</a></dt>
 		<dd class="sub_nav ">
 		<ul>
-						<li><a href="/index.php?ctl=tuan&cid=11&tid=8" class="heavy" >国内游</a></li>
-						<li><a href="/index.php?ctl=tuan&cid=11&tid=9"  >海外游</a></li>
-						<li><a href="/index.php?ctl=tuan&cid=11&tid=6" class="heavy" >自助游</a></li>
+						<li><a href="/index.php?ctl=tuan&cid=11&tid=6" class="heavy" >聚贤阁</a></li>
+						<li><a href="/index.php?ctl=tuan&cid=11&tid=7"  >四川菜馆</a></li>
+						<li><a href="/index.php?ctl=tuan&cid=11&tid=8" class="heavy" >川菜湘菜</a></li>
 					</ul>
 	</dd>
 			<dd class="pop_nav">
-		<span><a href="/index.php?ctl=tuan&cid=11">酒店旅游</a></span>
+		<span><a href="/index.php?ctl=tuan&cid=11">川渝风味</a></span>
 		<ul>
-						<li><a href="/index.php?ctl=tuan&cid=11&tid=8" class="heavy">国内游</a>&nbsp;&nbsp;|</li>
-						<li><a href="/index.php?ctl=tuan&cid=11&tid=9" >海外游</a>&nbsp;&nbsp;|</li>
-						<li><a href="/index.php?ctl=tuan&cid=11&tid=6" class="heavy">自助游</a>&nbsp;&nbsp;|</li>
-						<li><a href="/index.php?ctl=tuan&cid=11&tid=7" >周边游</a>&nbsp;&nbsp;|</li>
+						<li><a href="/index.php?ctl=tuan&cid=11&tid=6" class="heavy">聚贤阁</a>&nbsp;&nbsp;|</li>
+						<li><a href="/index.php?ctl=tuan&cid=11&tid=7" >四川菜馆</a>&nbsp;&nbsp;|</li>
+						<li><a href="/index.php?ctl=tuan&cid=11&tid=8" class="heavy">川菜湘菜</a>&nbsp;&nbsp;|</li>
 					</ul>
 	</dd>
 	</dl>
 <dl class="">
-	<dt><a href="/index.php?ctl=tuan&cid=13"><i class="diyfont">&#58883;</i>&nbsp;爱车学车</a></dt>
+	<dt><a href="/index.php?ctl=tuan&cid=16"><i class="diyfont"></i>&nbsp;淮鲁菜系</a></dt>
 		<dd class="sub_nav ">
 		<ul>
-						<li><a href="/index.php?ctl=tuan&cid=13&tid=12"  >驾校</a></li>
-						<li><a href="/index.php?ctl=tuan&cid=13&tid=13" class="heavy" >4S店</a></li>
-						<li><a href="/index.php?ctl=tuan&cid=13&tid=14"  >音响</a></li>
+						<li><a href="/index.php?ctl=tuan&cid=16&tid=18"  >山东菜馆</a></li>
+						<li><a href="/index.php?ctl=tuan&cid=16&tid=19"  >淮扬菜</a></li>
 					</ul>
 	</dd>
 			<dd class="pop_nav">
-		<span><a href="/index.php?ctl=tuan&cid=13">爱车学车</a></span>
+		<span><a href="/index.php?ctl=tuan&cid=16">淮鲁菜系</a></span>
 		<ul>
-						<li><a href="/index.php?ctl=tuan&cid=13&tid=12" >驾校</a>&nbsp;&nbsp;|</li>
-						<li><a href="/index.php?ctl=tuan&cid=13&tid=13" class="heavy">4S店</a>&nbsp;&nbsp;|</li>
-						<li><a href="/index.php?ctl=tuan&cid=13&tid=14" >音响</a>&nbsp;&nbsp;|</li>
-						<li><a href="/index.php?ctl=tuan&cid=13&tid=15" class="heavy">车载导航</a>&nbsp;&nbsp;|</li>
-						<li><a href="/index.php?ctl=tuan&cid=13&tid=16" class="heavy">真皮座椅</a>&nbsp;&nbsp;|</li>
-						<li><a href="/index.php?ctl=tuan&cid=13&tid=17" class="heavy">打蜡</a>&nbsp;&nbsp;|</li>
-						<li><a href="/index.php?ctl=tuan&cid=13&tid=10" class="heavy">洗车</a>&nbsp;&nbsp;|</li>
-						<li><a href="/index.php?ctl=tuan&cid=13&tid=11" class="heavy">汽车保养</a>&nbsp;&nbsp;|</li>
+						<li><a href="/index.php?ctl=tuan&cid=16&tid=18" >山东菜馆</a>&nbsp;&nbsp;|</li>
+						<li><a href="/index.php?ctl=tuan&cid=16&tid=19" >淮扬菜</a>&nbsp;&nbsp;|</li>
 					</ul>
 	</dd>
 	</dl>
 <dl class="no_border">
-	<dt><a href="/index.php?ctl=tuan&cid=14"><i class="diyfont">&#58888;</i>&nbsp;都市丽人</a></dt>
+	<dt><a href="/index.php?ctl=tuan&cid=17"><i class="diyfont">&#58887;</i>&nbsp;东北菜</a></dt>
 		</dl>
 </div>	</div>
 	
@@ -407,15 +340,12 @@ var QRCODE_ON = '1';
 				<h1><i class="iconfont">&#xe609;</i>&nbsp;热门团购</h1>
 				
 					<ul>
-												<li><a href="/index.php?ctl=tuan&cid=8" class="heavy" >餐饮美食</a></li>
-												<li><a href="/index.php?ctl=tuan&cid=9"  >休闲娱乐</a></li>
-												<li><a href="/index.php?ctl=tuan&cid=10" class="heavy" >生活服务</a></li>
-												<li><a href="/index.php?ctl=tuan&cid=11"  >酒店旅游</a></li>
-												<li><a href="/index.php?ctl=tuan&cid=13"  >爱车学车</a></li>
-												<li><a href="/index.php?ctl=tuan&cid=14"  >都市丽人</a></li>
-												<li><a href="/index.php?ctl=tuan&cid=15"  >我要结婚</a></li>
-												<li><a href="/index.php?ctl=tuan&cid=16" class="heavy" >医疗健康</a></li>
-												<li><a href="/index.php?ctl=tuan&cid=17"  >母婴亲子</a></li>
+												<li><a href="/index.php?ctl=tuan&cid=8" class="heavy" >火锅</a></li>
+												<li><a href="/index.php?ctl=tuan&cid=9"  >烧烤</a></li>
+												<li><a href="/index.php?ctl=tuan&cid=10" class="heavy" >特色小吃</a></li>
+												<li><a href="/index.php?ctl=tuan&cid=11"  >川渝风味</a></li>
+												<li><a href="/index.php?ctl=tuan&cid=16" class="heavy" >淮鲁菜系</a></li>
+												<li><a href="/index.php?ctl=tuan&cid=17"  >东北菜</a></li>
 											
 					</ul>
 				
@@ -427,21 +357,21 @@ var QRCODE_ON = '1';
 				<h1><i class="iconfont">&#xe611;</i>&nbsp;热门标签</h1>
 				
 					<ul>
-												<li><a href="/index.php?ctl=tuan&cid=8&tid=2" class="heavy" >闽菜</a></li>
-												<li><a href="/index.php?ctl=tuan&cid=13&tid=14"  >音响</a></li>
-												<li><a href="/index.php?ctl=tuan&cid=8&tid=27" class="heavy" >本帮菜</a></li>
-												<li><a href="/index.php?ctl=tuan&cid=8&tid=3"  >东北菜</a></li>
-												<li><a href="/index.php?ctl=tuan&cid=13&tid=15" class="heavy" >车载导航</a></li>
+												<li><a href="/index.php?ctl=tuan&cid=13&tid=14"  >馋小喵</a></li>
+												<li><a href="/index.php?ctl=tuan&cid=16&tid=18"  >山东菜馆</a></li>
+												<li><a href="/index.php?ctl=tuan&cid=16&tid=19"  >淮扬菜</a></li>
+												<li><a href="/index.php?ctl=tuan&cid=8&tid=1" class="heavy" >宴叔叔</a></li>
 												<li><a href="/index.php?ctl=tuan&cid=8&tid=28"  >甜点</a></li>
-												<li><a href="/index.php?ctl=tuan&cid=8&tid=4" class="heavy" >川菜</a></li>
-												<li><a href="/index.php?ctl=tuan&cid=13&tid=16" class="heavy" >真皮座椅</a></li>
+												<li><a href="/index.php?ctl=tuan&cid=9&tid=1" class="heavy" >宴叔叔</a></li>
 												<li><a href="/index.php?ctl=tuan&cid=8&tid=29"  >面包</a></li>
-												<li><a href="/index.php?ctl=tuan&cid=9&tid=5"  >KTV</a></li>
-												<li><a href="/index.php?ctl=tuan&cid=13&tid=17" class="heavy" >打蜡</a></li>
+												<li><a href="/index.php?ctl=tuan&cid=8&tid=2" class="heavy" >地中海</a></li>
 												<li><a href="/index.php?ctl=tuan&cid=8&tid=30" class="heavy" >烧烤</a></li>
-												<li><a href="/index.php?ctl=tuan&cid=9&tid=6" class="heavy" >自助游</a></li>
-												<li><a href="/index.php?ctl=tuan&cid=16&tid=18"  >男科</a></li>
-												<li><a href="/index.php?ctl=tuan&cid=11&tid=6" class="heavy" >自助游</a></li>
+												<li><a href="/index.php?ctl=tuan&cid=8&tid=3"  >岁岁羊</a></li>
+												<li><a href="/index.php?ctl=tuan&cid=8&tid=4" class="heavy" >三只羊</a></li>
+												<li><a href="/index.php?ctl=tuan&cid=9&tid=5"  >大西北</a></li>
+												<li><a href="/index.php?ctl=tuan&cid=9&tid=6" class="heavy" >聚贤阁</a></li>
+												<li><a href="/index.php?ctl=tuan&cid=11&tid=6" class="heavy" >聚贤阁</a></li>
+												<li><a href="/index.php?ctl=tuan&cid=11&tid=7"  >四川菜馆</a></li>
 											</ul>
 				
 				</div>
@@ -739,12 +669,10 @@ var QRCODE_ON = '1';
 	
 			<div class="index_cate" rel="index_mall_cate_24">
 		<div class="title_row">
-			<div class="title"><i class="diyfont"></i>&nbsp;&nbsp;服装</div>
+			<div class="title"><i class="diyfont"></i>&nbsp;&nbsp;火锅</div>
 			<ul>
-								<li><a href="/index.php?ctl=cate&cid=30">女装</a> | </li>
-								<li><a href="/index.php?ctl=cate&cid=31">男装</a> | </li>
-								<li><a href="/index.php?ctl=cate&cid=32">家居服</a> | </li>
-								<li><a href="/index.php?ctl=cate&cid=33">毛衣</a></li>
+								<li><a href="/index.php?ctl=cate&cid=30">宴叔叔火锅</a> | </li>
+								<li><a href="/index.php?ctl=cate&cid=31">地中海火锅</a></li>
 							</ul>
 			<a href="/index.php?ctl=cate&cid=24" class="more">更多</a>
 		</div>
@@ -948,10 +876,10 @@ var QRCODE_ON = '1';
 	</div>
 				<div class="index_cate" rel="index_mall_cate_29">
 		<div class="title_row">
-			<div class="title"><i class="diyfont"></i>&nbsp;&nbsp;母婴用品</div>
+			<div class="title"><i class="diyfont"></i>&nbsp;&nbsp;风味小吃</div>
 			<ul>
-								<li><a href="/index.php?ctl=cate&cid=36">书包</a> | </li>
-								<li><a href="/index.php?ctl=cate&cid=37">玩具</a></li>
+								<li><a href="/index.php?ctl=cate&cid=36">沙县</a> | </li>
+								<li><a href="/index.php?ctl=cate&cid=37">馋小喵</a></li>
 							</ul>
 			<a href="/index.php?ctl=cate&cid=29" class="more">更多</a>
 		</div>

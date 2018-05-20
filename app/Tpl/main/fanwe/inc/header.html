@@ -76,12 +76,6 @@ $this->_var['cpagejs'][] = $this->_var['TMPL_REAL']."/js/msg_sender.js";
 		{function name="load_page_png" v=$logo_image}
 	</a>
 	</div>
-	<div class="city f_l">
-		{if count($city_list)>1}
-		<a class="city_name" href="javascript:void(0);"  jump="{url r="index" x="city"}">{insert name="load_city_name"}{if $city_count lt 20}&nbsp;<i></i>{/if}</a>
-		<a href="javascript:void(0);"  jump="{url r="index" x="city"}" class="city_switch f_l">切换城市</a>
-		{/if}
-	</div>
 	<div class="search f_r">
 		<div class="top_search">
 			<form action="{url r="index" x="search"}" name="search_form" method=post >

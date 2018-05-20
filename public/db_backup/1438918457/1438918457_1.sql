@@ -969,7 +969,7 @@ CREATE TABLE `%DB_PREFIX%deal_city` (
 ) ENGINE=MyISAM AUTO_INCREMENT=32 DEFAULT CHARSET=utf8 COMMENT='城市表';
 INSERT INTO `%DB_PREFIX%deal_city` VALUES ('1','福建','fujianp','1','0','0','1','0','','','','','','0','0');
 INSERT INTO `%DB_PREFIX%deal_city` VALUES ('18','北京','beijing','1','0','16','1','0','','','','','','4','0');
-INSERT INTO `%DB_PREFIX%deal_city` VALUES ('24','成都','CD','1','0','23','1','1','','','','','','0','0');
+INSERT INTO `%DB_PREFIX%deal_city` VALUES ('24','桃苑','CD','1','0','23','1','1','','','','','','0','0');
 INSERT INTO `%DB_PREFIX%deal_city` VALUES ('20','厦门','xiamen','1','0','1','1','0','','','','','','6','0');
 INSERT INTO `%DB_PREFIX%deal_city` VALUES ('15','福州','fuzhou','1','0','1','1','0','','','','','','1','0');
 INSERT INTO `%DB_PREFIX%deal_city` VALUES ('16','北京','beijingp','1','0','0','1','0','','','','','','2','0');

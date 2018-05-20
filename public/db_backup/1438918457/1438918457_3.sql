@@ -559,9 +559,9 @@ INSERT INTO `%DB_PREFIX%log` VALUES ('2832','长沙彻底删除成功','14355970
 INSERT INTO `%DB_PREFIX%log` VALUES ('2833','上海彻底删除成功','1435597087','1','125.70.124.103','1','DealCity','foreverdelete');
 INSERT INTO `%DB_PREFIX%log` VALUES ('2834','上海彻底删除成功','1435597090','1','125.70.124.103','1','DealCity','foreverdelete');
 INSERT INTO `%DB_PREFIX%log` VALUES ('2835','四川添加成功','1435597108','1','125.70.124.103','1','DealCity','insert');
-INSERT INTO `%DB_PREFIX%log` VALUES ('2836','成都添加成功','1435597123','1','125.70.124.103','1','DealCity','insert');
+INSERT INTO `%DB_PREFIX%log` VALUES ('2836','桃苑添加成功','1435597123','1','125.70.124.103','1','DealCity','insert');
 INSERT INTO `%DB_PREFIX%log` VALUES ('2837','四川更新成功','1435597133','1','125.70.124.103','1','DealCity','update');
-INSERT INTO `%DB_PREFIX%log` VALUES ('2838','成都设为默认城市','1435597139','1','125.70.124.103','1','DealCity','set_default');
+INSERT INTO `%DB_PREFIX%log` VALUES ('2838','桃苑设为默认城市','1435597139','1','125.70.124.103','1','DealCity','set_default');
 INSERT INTO `%DB_PREFIX%log` VALUES ('2839','更新成功','1435597239','1','125.70.124.103','1','DealCate','update');
 INSERT INTO `%DB_PREFIX%log` VALUES ('2840','小灰灰测试更新成功','1435597442','1','125.70.124.103','1','Supplier','update');
 INSERT INTO `%DB_PREFIX%log` VALUES ('2841','admin登录成功','1435603495','1','49.81.121.182','1','Public','do_login');
@@ -726,7 +726,7 @@ INSERT INTO `%DB_PREFIX%log` VALUES ('3006','admin登录成功','1437356322','1'
 INSERT INTO `%DB_PREFIX%log` VALUES ('3007','admin登录成功','1437356345','1','175.17.83.198','1','Public','do_login');
 INSERT INTO `%DB_PREFIX%log` VALUES ('3008','admin登录成功','1437366711','1','117.140.181.18','1','Public','do_login');
 INSERT INTO `%DB_PREFIX%log` VALUES ('3009','admin登录成功','1437380014','1','119.183.233.87','1','Public','do_login');
-INSERT INTO `%DB_PREFIX%log` VALUES ('3010','成都设为默认城市','1437380081','1','119.183.233.87','1','DealCity','set_default');
+INSERT INTO `%DB_PREFIX%log` VALUES ('3010','桃苑设为默认城市','1437380081','1','119.183.233.87','1','DealCity','set_default');
 INSERT INTO `%DB_PREFIX%log` VALUES ('3011','admin登录成功','1437385293','1','117.140.181.18','1','Public','do_login');
 INSERT INTO `%DB_PREFIX%log` VALUES ('3012','男士棉服更新成功','1437387756','1','117.140.181.18','1','Article','update');
 INSERT INTO `%DB_PREFIX%log` VALUES ('3013','男士棉服更新成功','1437388904','1','117.140.181.18','1','Article','update');
