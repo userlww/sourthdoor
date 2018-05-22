@@ -1,5 +1,5 @@
 <?php
-//000000000600s:49008:"<?php exit;?>a:3:{s:8:"template";a:4:{i:0;s:57:"G:/phpstudy/PHPTutorial/WWW/app/Tpl/main/fanwe/index.html";i:1;s:62:"G:/phpstudy/PHPTutorial/WWW/app/Tpl/main/fanwe/inc/header.html";i:2;s:65:"G:/phpstudy/PHPTutorial/WWW/app/Tpl/main/fanwe/inc/cate_tree.html";i:3;s:62:"G:/phpstudy/PHPTutorial/WWW/app/Tpl/main/fanwe/inc/footer.html";}s:7:"expires";i:1526805084;s:8:"maketime";i:1526804484;}<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+//000000000600s:49023:"<?php exit;?>a:3:{s:8:"template";a:4:{i:0;s:57:"G:/phpstudy/PHPTutorial/WWW/app/Tpl/main/fanwe/index.html";i:1;s:62:"G:/phpstudy/PHPTutorial/WWW/app/Tpl/main/fanwe/inc/header.html";i:2;s:65:"G:/phpstudy/PHPTutorial/WWW/app/Tpl/main/fanwe/inc/cate_tree.html";i:3;s:62:"G:/phpstudy/PHPTutorial/WWW/app/Tpl/main/fanwe/inc/footer.html";}s:7:"expires";i:1527006862;s:8:"maketime";i:1527006262;}<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta name="Generator" />
@@ -357,7 +357,6 @@ var QRCODE_ON = '1';
 				<h1><i class="iconfont">&#xe611;</i>&nbsp;热门标签</h1>
 				
 					<ul>
-												<li><a href="/index.php?ctl=tuan&cid=13&tid=14"  >馋小喵</a></li>
 												<li><a href="/index.php?ctl=tuan&cid=16&tid=18"  >山东菜馆</a></li>
 												<li><a href="/index.php?ctl=tuan&cid=16&tid=19"  >淮扬菜</a></li>
 												<li><a href="/index.php?ctl=tuan&cid=8&tid=1" class="heavy" >宴叔叔</a></li>
@@ -372,6 +371,7 @@ var QRCODE_ON = '1';
 												<li><a href="/index.php?ctl=tuan&cid=9&tid=6" class="heavy" >聚贤阁</a></li>
 												<li><a href="/index.php?ctl=tuan&cid=11&tid=6" class="heavy" >聚贤阁</a></li>
 												<li><a href="/index.php?ctl=tuan&cid=11&tid=7"  >四川菜馆</a></li>
+												<li><a href="/index.php?ctl=tuan&cid=11&tid=8" class="heavy" >川菜湘菜</a></li>
 											</ul>
 				
 				</div>

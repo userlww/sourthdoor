@@ -1,3 +1,3 @@
 <?php
-//000000086400b:0;
+//000000086400a:3:{s:32:"6ab0e707b0c8ebae0b9dff8a777c3fd6";a:1:{s:32:"4c92ec40eb119d19d7fb8b68566221cd";s:216:"<a href='/index.php?ctl=uc_home&id=71' style='text-align:center; display:inline-block;'  onmouseover='userCard.load(this,"71");'><img src='http://localhost/public/avatar/000/00/00/71virtual_avatar_middle.jpg'  /></a>";}s:32:"7578f11b6c6878ad93d2046a86cbe7a6";a:1:{s:32:"d50d0506bf61b22c9a9a3efa2f069d9a";s:198:"<a href='/index.php?ctl=uc_home&id=72' style='text-align:center; display:inline-block;'  onmouseover='userCard.load(this,"72");'><img src='http://localhost/public/avatar/noavatar_middle.gif'  /></a>";}s:32:"4eb26d4e3d1bbf13dc100639fef463a8";a:1:{s:32:"9f467fb6b41c833b9556b47b5cdc07cd";s:198:"<a href='/index.php?ctl=uc_home&id=78' style='text-align:center; display:inline-block;'  onmouseover='userCard.load(this,"78");'><img src='http://localhost/public/avatar/noavatar_middle.gif'  /></a>";}}
 ?>

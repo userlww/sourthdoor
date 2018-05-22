@@ -1,0 +1,3 @@
+<?php
+//000000086400a:7:{i:1;a:4:{s:2:"id";s:1:"1";s:4:"name";s:9:"宴叔叔";s:12:"is_recommend";s:1:"1";s:4:"sort";s:1:"0";}i:2;a:4:{s:2:"id";s:1:"2";s:4:"name";s:9:"地中海";s:12:"is_recommend";s:1:"1";s:4:"sort";s:1:"0";}i:3;a:4:{s:2:"id";s:1:"3";s:4:"name";s:9:"岁岁羊";s:12:"is_recommend";s:1:"0";s:4:"sort";s:1:"0";}i:4;a:4:{s:2:"id";s:1:"4";s:4:"name";s:9:"三只羊";s:12:"is_recommend";s:1:"1";s:4:"sort";s:1:"0";}i:28;a:4:{s:2:"id";s:2:"28";s:4:"name";s:6:"甜点";s:12:"is_recommend";s:1:"0";s:4:"sort";s:1:"0";}i:29;a:4:{s:2:"id";s:2:"29";s:4:"name";s:6:"面包";s:12:"is_recommend";s:1:"0";s:4:"sort";s:1:"0";}i:30;a:4:{s:2:"id";s:2:"30";s:4:"name";s:6:"烧烤";s:12:"is_recommend";s:1:"1";s:4:"sort";s:1:"0";}}
+?>

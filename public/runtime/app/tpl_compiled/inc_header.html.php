@@ -185,10 +185,10 @@ echo parse_url_tag("u:index|search|".""."");
 			</form>
 		</div>
 		<ul class="search_hot_keyword">
-			<?php $_from = $this->_var['hot_kw']; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array'); }; $this->push_vars('', 'kw_0_17999300_1526804485');if (count($_from)):
-    foreach ($_from AS $this->_var['kw_0_17999300_1526804485']):
+			<?php $_from = $this->_var['hot_kw']; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array'); }; $this->push_vars('', 'kw_0_57611600_1526826904');if (count($_from)):
+    foreach ($_from AS $this->_var['kw_0_57611600_1526826904']):
 ?>
-			<li><a href="<?php echo $this->_var['kw_0_17999300_1526804485']['url']; ?>"><?php echo $this->_var['kw_0_17999300_1526804485']['txt']; ?></a></li>
+			<li><a href="<?php echo $this->_var['kw_0_57611600_1526826904']['url']; ?>"><?php echo $this->_var['kw_0_57611600_1526826904']['txt']; ?></a></li>
 			<?php endforeach; endif; unset($_from); ?><?php $this->pop_vars();; ?>
 		</ul>
 	</div>
